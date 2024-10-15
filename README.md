@@ -460,7 +460,7 @@ $ pip install segmentation-models-pytorch
 ````
 Latest version from source:
 ```bash
-$ pip install git+https://github.com/qubvel/segmentation_models.pytorch
+$ pip install git+https://github.com/weidaming/segmentation_models.pytorch.wdm
 ````
 
 ### 🏆 Competitions won with the library
